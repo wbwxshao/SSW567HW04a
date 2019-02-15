@@ -16,7 +16,7 @@ The github seems to block me easily when I try to test too fast.
 import requests
 import json
 import unittest
-
+ 
 def getinfo(userid):
     """Given the Github userid and return name of repo and number of commits"""
     github_url = 'https://api.github.com/users/'
