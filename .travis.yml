@@ -5,5 +5,5 @@ install:
   - pip install requests
 # command to run tests
 script:
-  - python -m unittest HW04a_Xueshi_Wang
+  - python -m unittest HW05_test.py
 
